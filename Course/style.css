@@ -1,0 +1,52 @@
+
+h1{
+    color: blue;
+}
+
+h3{
+    color: rgb(159, 165, 42);
+    font-weight: 800;
+    background-color: aquamarine;
+    font-style: oblique;
+    text-align: center;
+    letter-spacing: 1em;
+}
+
+h3.hero{
+    color: rgb(127, 127, 255);
+    background-color: rgb(208, 160, 104);
+    text-align: right;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+p {
+    background-color: #84c983;
+    text-indent: 30px;
+    background-size:content;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+p.hero{
+    background-image: url(images/b1.png);
+    background-size:cover;
+    margin-left: 25%;
+    margin-right: 5%;
+    display: inline;
+}
+.block-model {
+    box-sizing: content-box;
+    display:inline-block;
+    width: 400px;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+    border: 6px solid rgb(161, 38, 38)
+    
+}
+div.test {
+    background-color: rgba(0, 0, 0, 0.434);
+    display: block;
+}
+div {
+    background-color: rgb(126, 16, 126);
+}
